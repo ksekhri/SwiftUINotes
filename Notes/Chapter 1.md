@@ -72,6 +72,7 @@ struct ContentView: View {
 
 ### Section 4: Create a Custom Image View
 * Create a custom view that applies a mask, border, and drop shadow to the image
+![Question 2](images/ch1/s1-image-view.png)
     1. Add an image to the project’s asset catalog: drag it to the asset catalog editor
     2. Create a custom view: Create a new SwiftUI view for your custom image view. Choose File > New > File to open the template selector again. In the User Interface section, select SwiftUI View and click Next. Name the file CircleImage.swift and click Create.
     3. Apply a mask, border, and drop shadow to an image
@@ -151,7 +152,7 @@ Questions:
         }
     }
     ```
-   ![Question 2](images/ch1-q2.png)
+   ![Question 2](images/ch1/s1-q2.png)
 3. Which of these is a correct way to return three views from a custom view’s `body` property?
     ```
    VStack {
