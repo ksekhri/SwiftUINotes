@@ -30,3 +30,6 @@ Temporary Items
 # JetBrains
 
 .idea
+
+# Unzipped Project Files
+Project Files/*/*/*/
