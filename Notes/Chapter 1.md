@@ -1,6 +1,6 @@
 # Chapter 1: SwiftUI Essentials
 
-## A. Creating and Combining Views
+## A. [Creating and Combining Views](https://developer.apple.com/tutorials/swiftui/creating-and-combining-views)
 ### Section 1: Create a New Project and Explore the Canvas
 * If the canvas isn’t visible, select Editor > Editor and Canvas to show it.
 * By default, SwiftUI view files declare two structures.
@@ -198,3 +198,7 @@ Answers:
 2. 3rd image: The nested horizontal and vertical stacks arrange the image to the left of the two text views.
 3. 1st snippet: You can use a stack to return multiple views from a body property.
 4. 3rd snippet: A modifier returns a view that applies a new behavior or visual change. You can chain multiple modifiers to achieve the effects you need.
+
+## B. [Building Lists and Navigation](https://developer.apple.com/tutorials/swiftui/building-lists-and-navigation)
+
+### Section 1: Get to Know the Sample Data
